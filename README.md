@@ -19,11 +19,14 @@ I thrive on challenges and embrace continuous learning. My journey in web develo
 
 ## Skills
 
-- HTML ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- React.js 
-- Git 
+- Programming Languages: 
+  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- Web Development: 
+  - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML
+  - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ...
+
 
 ## What Sets Me Apart
 
