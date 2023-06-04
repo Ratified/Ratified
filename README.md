@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm George Kamunge
 
-__A proactive computer scientist student with a passion for building exceptional web experiences. Welcome to my GitHub profile!__
+__A proactive computer science student with a passion for building exceptional web experiences. Welcome to my GitHub profile!__
 
 ## About Me
 
