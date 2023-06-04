@@ -10,7 +10,6 @@ __A proactive computer scientist student with a passion for building exceptional
 - 💬 Ask me about *CSS*
 
 ## Skills
-
 - Programming Languages: 
   - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
   - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
@@ -18,6 +17,10 @@ __A proactive computer scientist student with a passion for building exceptional
   - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML
   - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS
   - ![React](https://img.icons8.com/color/48/000000/react-native.png) React JS
+  - ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
+- Design Tools: 
+  - ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) Photoshop
+  - ![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png) Adobe XD
 - Version Control: 
   - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
 
