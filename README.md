@@ -11,12 +11,6 @@ I thrive on challenges and embrace continuous learning. My journey in web develo
 - 💬 Ask me about *CSS*
 - 📫 How to reach me: *kamungegeorge42@gmail.com*
 
-## Projects
-
-- [Project 1](https://github.com/Ratified/QR-code-component.git): QR Code Component - FrontEnd Mentor
-- [Project 2](https://github.com/Ratified/Order-summary-component.git): Order Summary Component - FrontEnd Mentor
-- [Project 3](https://github.com/Ratified/Stats-preview-card-component.git): Stats Preview Card Component - FrontEnd Mentor
-
 ## Skills
 
 - Programming Languages: 
@@ -25,8 +19,9 @@ I thrive on challenges and embrace continuous learning. My journey in web develo
 - Web Development: 
   - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML
   - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ...
-
+  - ![React](https://img.icons8.com/color/48/000000/react-native.png) React JS
+- Version Control: 
+  - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
 
 ## What Sets Me Apart
 
