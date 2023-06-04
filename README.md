@@ -4,7 +4,7 @@ __A proactive computer scientist student with a passion for building exceptional
 
 ## About Me
 
-I thrive on challenges and embrace continuous learning. My journey in web development has equipped me with a solid understanding of HTML, CSS, and JavaScript, allowing me to craft captivating and responsive user interfaces. I'm well-versed in popular frameworks and libraries like Bootstrap and React.js, leveraging their power to create dynamic and scalable applications.
+I thrive on challenges and embrace continuous learning. My journey in web development has equipped me with a solid understanding of HTML, CSS, and JavaScript, allowing me to craft captivating and responsive user interfaces. I'm well-versed in popular frameworks and libraries like Bootstrap and React.js, leveraging their power to create dynamic and scalable applications. I've completed many challenges on front-end mentor that go to show that I have front-end web development skills. [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/Ratified)
 
 - 🌱 I’m currently learning *Node JS*
 - 🤔 I’m looking for help with *Backend Web Development*
