@@ -34,7 +34,7 @@ I'm not just a developer; I'm a lifelong learner. I'm constantly exploring emerg
 
 I'm always open to new opportunities and collaborations. Let's connect and build something incredible together!
 
-- Website: [kamungegeorge.live](http://kamungegeorge.live/)
+- Website: [kamungegeorge.live](http://kamungegeorge.live/){:target="_blank"}
 - LinkedIn: https://www.linkedin.com/in/george-kamunge-2a30a5233
 - Email: kamungegeorge42@gmail.com
 
