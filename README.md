@@ -33,6 +33,7 @@ I'm not just a developer; I'm a lifelong learner. I'm constantly exploring emerg
 
 ## 📊 Stats
 [![Ratified's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratified&show_icons=true&theme=radical)](https://github.com/Ratified/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ratified&show_icons=true&theme=radical&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="Ratified"/>
 
 ## 🌐 Let's Connect
 
