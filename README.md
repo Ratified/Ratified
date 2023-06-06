@@ -43,3 +43,5 @@ I'm always open to new opportunities and collaborations. Let's connect and build
 Let's push boundaries, break barriers, and create remarkable digital experiences. Together, we can make a difference!
 
 Happy coding! 😄
+
+[![](https://visitcount.itsvg.in/api?id=Ratified&icon=0&color=0)](https://visitcount.itsvg.in)
