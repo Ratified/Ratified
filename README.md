@@ -4,7 +4,7 @@ __A proactive computer science student with a passion for building exceptional w
 
 [![](https://visitcount.itsvg.in/api?id=Ratified&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-## About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> About Me
 
 **I thrive on challenges and embrace continuous learning. My journey in web development has equipped me with a solid understanding of HTML, CSS, and JavaScript, allowing me to craft captivating and responsive user interfaces. I'm well-versed in popular frameworks and libraries like Bootstrap and React.js, leveraging their power to create dynamic and scalable applications. I've completed many challenges on front-end mentor that go to show that I have front-end web development skills. [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/Ratified)**
 
