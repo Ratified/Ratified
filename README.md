@@ -2,7 +2,7 @@
 
 __A proactive computer science student with a passion for building exceptional web experiences. Welcome to my GitHub profile!__
 
-[![](https://visitcount.itsvg.in/api?id=Ratified&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ratified&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## About Me
 
