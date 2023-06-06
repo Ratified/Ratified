@@ -11,7 +11,7 @@ __A proactive computer science student with a passion for building exceptional w
 - 🌱 I’m currently learning *Backend Web Development*
 - 💬 Ask me about *CSS*
 
-## Skills
+## 💻 Skills
 - Programming Languages: 
   - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
   - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
