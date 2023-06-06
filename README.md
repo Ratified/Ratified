@@ -26,6 +26,8 @@ __A proactive computer science student with a passion for building exceptional w
   - ![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png) Adobe XD
 - Version Control: 
   - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+- Operating System:
+  - [![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://www.linux.org/) Linux
 
 ## What Sets Me Apart
 
