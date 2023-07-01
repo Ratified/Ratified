@@ -21,6 +21,8 @@ __A proactive computer science student with a passion for building exceptional w
   - ![React](https://img.icons8.com/color/48/000000/react-native.png) React JS
   - ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
   - ![Sass](https://img.icons8.com/color/48/000000/sass.png) Sass
+  - ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
+  - ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
 - Design Tools: 
   - ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) Photoshop
   - ![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png) Adobe XD
