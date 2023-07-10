@@ -36,14 +36,13 @@ __A proactive computer science student with a passion for building exceptional w
 I'm not just a developer; I'm a lifelong learner. I'm constantly exploring emerging technologies and keeping up with the latest industry trends. My commitment to self-improvement drives me to tackle complex problems, collaborate with passionate teams, and deliver innovative solutions.
 
 ## 📊 Stats
-[![Ratified's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratified&show_icons=true&theme=radical)](https://github.com/Ratified/github-readme-stats)
+![Ratified's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratified&show_icons=true&theme=radical)](https://github.com/Ratified/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ratified&show_icons=true&theme=radical&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="Ratified"/>
 
 ## 🌐 Let's Connect
 
 I'm always open to new opportunities and collaborations. Let's connect and build something incredible together!
 
-- Website: <a href="http://kamungegeorge.live/" target="_blank">kamungegeorge.live</a>
 - LinkedIn: https://www.linkedin.com/in/george-kamunge-2a30a5233
 - Email: kamungegeorge42@gmail.com
 
