@@ -1,6 +1,3 @@
-![Ratified's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratified&count_private=true&layout=compact&show_icons=true&theme=radical)
-<!--[![Ratified's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratified)](https://github.com/anuraghazra/github-readme-stats) -->
-
 # Hi there! 👋 I'm George Kamunge
 
 __A Full-Stack Developer with a passion for creating cutting-edge web applications and seamless digital experiences.__
@@ -9,13 +6,13 @@ __A Full-Stack Developer with a passion for creating cutting-edge web applicatio
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> About Me
 
-As a proactive Computer Science graduate from Dedan Kimathi University, I have honed my skills in building dynamic and scalable web applications. My expertise spans across both front-end and back-end development, with a solid foundation in **HTML**, **CSS**, **JavaScript**, and popular frameworks like **React JS** and **Laravel**.
+As a proactive Computer Science graduate from Dedan Kimathi University, I have honed my skills in building dynamic and scalable web applications. My expertise spans across both front-end and back-end development, with a solid foundation in **HTML**, **CSS**, **JavaScript**, **PHP** and popular frameworks like **Tailwind CSS, React JS, Express JS ** and **Laravel**.
 
 I believe in continuous learning and growth, currently expanding my knowledge in **Docker** and **CI/CD pipelines**. I've successfully delivered multiple full-stack projects for clients, demonstrating my ability to solve complex challenges while delivering exceptional digital solutions.
 
 ### Key Highlights:
 - 🌱 Currently mastering *Docker* and *CI/CD Pipelines*.
-- 👨‍💻 Completed 4 full-stack projects and various freelance gigs.
+- 👨‍💻 Completed full-stack projects and various freelance gigs.
 - 🏆 Active contributor to **Frontend Mentor** – [My Profile](https://www.frontendmentor.io/profile/Ratified).
 
 ## 💻 Tech Stack
@@ -41,7 +38,6 @@ I believe in continuous learning and growth, currently expanding my knowledge in
   - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**, **GitHub**
   - ![Docker](https://img.icons8.com/color/48/000000/docker.png) **Docker** (Learning)
   - ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png) **Postman** (API Testing)
-  - ![Jest](https://img.icons8.com/color/48/000000/jest.png) **Jest** (Testing)
   - ![CI/CD](https://img.icons8.com/ios/50/000000/continuous-integration.png) **CI/CD** (Learning)
 
 ### Design Tools:
