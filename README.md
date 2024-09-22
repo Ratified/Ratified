@@ -6,7 +6,7 @@ __A Full-Stack Developer with a passion for creating cutting-edge web applicatio
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> About Me
 
-As a proactive Computer Science graduate from Dedan Kimathi University, I have honed my skills in building dynamic and scalable web applications. My expertise spans across both front-end and back-end development, with a solid foundation in **HTML**, **CSS**, **JavaScript**, **PHP** and popular frameworks like **Tailwind CSS, React JS, Express JS ** and **Laravel**.
+As a proactive Computer Science graduate from Dedan Kimathi University, I have honed my skills in building dynamic and scalable web applications. My expertise spans across both front-end and back-end development, with a solid foundation in **HTML**, **CSS**, **JavaScript**, **PHP** and popular frameworks like **Tailwind CSS**, **React JS** , **Express JS** and **Laravel**.
 
 I believe in continuous learning and growth, currently expanding my knowledge in **Docker** and **CI/CD pipelines**. I've successfully delivered multiple full-stack projects for clients, demonstrating my ability to solve complex challenges while delivering exceptional digital solutions.
 
