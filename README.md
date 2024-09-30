@@ -2,8 +2,6 @@
 
 __A Full-Stack Developer with a passion for creating cutting-edge web applications and seamless digital experiences.__
 
-// [![](https://visitcount.itsvg.in/api?id=Ratified&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> About Me
 
 As a proactive Computer Science graduate from Dedan Kimathi University, I have honed my skills in building dynamic and scalable web applications. My expertise spans across both front-end and back-end development, with a solid foundation in **HTML**, **CSS**, **JavaScript**, **PHP** and popular frameworks like **Tailwind CSS**, **React JS** , **Express JS** and **Laravel**.
