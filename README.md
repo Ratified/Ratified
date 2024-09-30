@@ -2,7 +2,7 @@
 
 __A Full-Stack Developer with a passion for creating cutting-edge web applications and seamless digital experiences.__
 
-[![](https://visitcount.itsvg.in/api?id=Ratified&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+// [![](https://visitcount.itsvg.in/api?id=Ratified&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> About Me
 
