@@ -52,6 +52,7 @@ I believe in continuous learning and growth, currently expanding my knowledge in
 I'm always eager to explore new opportunities and collaborate on challenging projects. Feel free to reach out and let's create impactful digital experiences together!
 
 - LinkedIn: [George Kamunge](https://www.linkedin.com/in/george-kamunge-2a30a5233)
+- Website: [My Website](https://kamungegeorge.vercel.app/)
 - Email: [kamungegeorge42@gmail.com](mailto:kamungegeorge42@gmail.com)
 
 ---
