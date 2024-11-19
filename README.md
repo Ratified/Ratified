@@ -4,14 +4,17 @@ __A Full-Stack Developer with a passion for creating cutting-edge web applicatio
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> About Me
 
-As a proactive Computer Science graduate from Dedan Kimathi University, I have honed my skills in building dynamic and scalable web applications. My expertise spans across both front-end and back-end development, with a solid foundation in **HTML**, **CSS**, **JavaScript**, **PHP** and popular frameworks like **Tailwind CSS**, **React JS** , **Express JS** and **Laravel**.
+As a software developer with a strong focus on creating tailored business solutions, I specialize in building dynamic and scalable web applications that drive results. My expertise spans both front-end and back-end development, leveraging tools and frameworks like **JavaScript**, **TypeScript**, **PHP**, **Tailwind CSS**, **React JS**, **Next.js**, **Express**, and **Laravel**.
+
+I excel at integrating modern technologies such as **Daisy UI**, **Prisma**, **Mongoose**, and **ShadCN** to deliver seamless user experiences and robust back-end systems. My goal is to empower businesses with digital solutions that solve real-world challenges and unlock growth opportunities.
 
 I believe in continuous learning and growth, currently expanding my knowledge in **Docker** and **CI/CD pipelines**. I've successfully delivered multiple full-stack projects for clients, demonstrating my ability to solve complex challenges while delivering exceptional digital solutions.
 
-### Key Highlights:
-- 🌱 Currently mastering *Docker* and *CI/CD Pipelines*.
-- 👨‍💻 Completed full-stack projects and various freelance gigs.
-- 🏆 Active contributor to **Frontend Mentor** – [My Profile](https://www.frontendmentor.io/profile/Ratified).
+### What Sets Me Apart:
+- 🚀 I don’t just code – I solve problems and build solutions tailored to businesses.
+- 🌱 Continuously learning, with current focus on CI/CD pipelines.
+- 🔨 Built and delivered custom web solutions, from e-commerce platforms to management systems.
+- 🌟 Known for delivering quality work with clear communication and attention to detail.
 
 ## 💻 Tech Stack
 ### Programming Languages:
@@ -34,7 +37,7 @@ I believe in continuous learning and growth, currently expanding my knowledge in
 
 ### Tools & Technologies:
   - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**, **GitHub**
-  - ![Docker](https://img.icons8.com/color/48/000000/docker.png) **Docker** (Learning)
+  - ![Docker](https://img.icons8.com/color/48/000000/docker.png) **Docker**
   - ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png) **Postman** (API Testing)
   - ![CI/CD](https://img.icons8.com/ios/50/000000/continuous-integration.png) **CI/CD** (Learning)
 
